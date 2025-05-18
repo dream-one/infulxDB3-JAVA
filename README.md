@@ -90,7 +90,7 @@ InfluxDB 3 Core官方文档：https://docs.influxdb.org.cn/influxdb3/core/
     如果你想让这个环境变量在系统重启后依然有效，你需要通过系统属性来设置它（搜索“编辑系统环境变量”）。
 现在你就有了一个管理员令牌，可以用它来进行后续的数据库创建、数据写入和查询等操作了。
 
-**三、 Java项目集成：Spring Boot (RuoYi) 与 InfluxDB 3的连接**
+## 三、 Java项目集成：Spring Boot (RuoYi) 与 InfluxDB 3的连接**
 
 *   **选择合适的Java客户端库**：
     对于InfluxDB 3.x，官方推荐使用 `influxdb3-java` 这个新的、轻量级的、社区维护的客户端库。
