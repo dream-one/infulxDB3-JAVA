@@ -123,7 +123,7 @@ java --add-opens=java.base/java.nio=ALL-UNNAMED -jar your-application.jar
 influxdb:
   client3:
     host: http://localhost:8181
-    token: apiv3_60Fa_JuZFuH5563Lfu6Ag63yml9KJnG-GDDa2dCQllf9JTQXebf76OiNIZOHaPnosx78hB61Q_e1ziO26F585g
+    token: 123456
     database: tunnel_fengji # 你的InfluxDB 3数据库名
 ```
 
